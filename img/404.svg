@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="679" height="280" viewBox="0 0 679 280">
+    <defs>
+        <text id="b" fill="#D1D3D4" font-family="PFBeauSansPro-Light, PF BeauSans Pro" font-size="400" font-weight="300">
+            <tspan x="370" y="461.928">404</tspan>
+        </text>
+        <filter id="a" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+            <feOffset dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.215494792 0"/>
+        </filter>
+        <filter id="c" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+            <feOffset dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.215494792 0"/>
+        </filter>
+    </defs>
+    <g fill="#D1D3D4" fill-rule="evenodd" opacity=".15" transform="translate(-379 -187)">
+        <use filter="url(#a)" xlink:href="#b"/>
+        <use filter="url(#c)" xlink:href="#b"/>
+    </g>
+</svg>

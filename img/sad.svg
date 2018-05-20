@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164" height="145" viewBox="0 0 164 145">
+    <defs>
+        <rect id="a" width="164" height="130.678" rx="4"/>
+        <mask id="d" width="164" height="130.678" x="0" y="0" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <circle id="b" cx="39.418" cy="61.186" r="8"/>
+        <mask id="e" width="16" height="16" x="0" y="0" fill="#fff">
+            <use xlink:href="#b"/>
+        </mask>
+        <circle id="c" cx="127" cy="61.186" r="8"/>
+        <mask id="f" width="16" height="16" x="0" y="0" fill="#fff">
+            <use xlink:href="#c"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 .777)">
+        <use stroke="#3F419A" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" mask="url(#d)" xlink:href="#a"/>
+        <path stroke="#3F419A" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M162.5 13.5H1.5"/>
+        <circle cx="7.5" cy="7.5" r="1.5" fill="#3F419A"/>
+        <circle cx="14.5" cy="7.5" r="1.5" fill="#3F419A"/>
+        <circle cx="21.5" cy="7.5" r="1.5" fill="#3F419A"/>
+        <use stroke="#3F419A" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" mask="url(#e)" xlink:href="#b"/>
+        <use stroke="#3F419A" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" mask="url(#f)" xlink:href="#c"/>
+        <path stroke="#3F419A" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M102.502 88.836c0-11.323-9.179-20.503-20.502-20.503-11.323 0-20.502 9.18-20.502 20.503M130.232 100.111l-4.309-7.448c-.551-.953-1.452-.944-2 0l-4.325 7.448a6.166 6.166 0 0 0 0 6.16c1.1 1.915 3.09 3.052 5.327 3.052a6.082 6.082 0 0 0 5.326-3.07c1.1-1.915 1.1-4.208-.019-6.142z"/>
+        <path fill="#FFF" fill-rule="nonzero" stroke="#3F419A" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M130.232 132.981l-4.309-7.449c-.551-.953-1.452-.943-2 0l-4.325 7.449a6.166 6.166 0 0 0 0 6.16c1.1 1.915 3.09 3.052 5.327 3.052a6.082 6.082 0 0 0 5.326-3.07c1.1-1.915 1.1-4.209-.019-6.142z"/>
+    </g>
+</svg>

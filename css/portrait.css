@@ -1,0 +1,36 @@
+div#footer-left {
+    position: absolute;
+    right: 60px;
+    bottom: 24px;
+    width: 200px;
+}
+
+#footer a.callback-btn {
+    margin-bottom: 16px;
+}
+
+div#footer-center section.widget_text,
+div#footer-center section.classic-textwidget {
+    margin-top: 6px;
+}
+
+
+a#contact-sc-num {
+    font-size: 17px;
+}
+
+.woocommerce ul.products[class*=columns-] li.product, .woocommerce-page ul.products[class*=columns-] li.product {
+    flex: 1 1 29%;
+}
+
+.woocommerce-cart .cart-collaterals .cart_totals table {
+    margin: 16px 0;
+}
+
+tr#stupid-empty {
+    display: none;
+}
+
+.woocommerce-page ul.products[class*=columns-] li.product:nth-of-type(odd):last-of-type {
+    flex: 0 0 45%;
+}

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: testy\n"
+"POT-Creation-Date: 2017-06-03 23:23+1100\n"
+"PO-Revision-Date: 2017-06-14 17:44+1000\n"
+"Last-Translator: Paul M <vkrms@flake.ink>\n"
+"Language-Team: Flake.ink\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__\n"
+"X-Poedit-SearchPath-0: index.php\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: index.php:19 index.php:21 index.php:28 index.php:115
+msgid "Testimonials"
+msgstr "Отзывы клиентов"
+
+#: index.php:20 index.php:22 index.php:27
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: index.php:23
+msgid "Testimonial Archives"
+msgstr "Список отзывов"
+
+#: index.php:24
+msgid "Edit This Testimonial"
+msgstr "Редактировать отзыв"
+
+#: index.php:58
+msgid "Meta"
+msgstr "Мета"
+
+#: index.php:67
+msgid "Company & Position"
+msgstr "Компания и должность"

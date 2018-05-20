@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fstore\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-10-30 11:55+1000\n"
+"PO-Revision-Date: 2018-02-27 13:20+1000\n"
+"Last-Translator: Paul M <vkrms@flake.ink>\n"
+"Language-Team: Flake.ink\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__;_x;esc_html__;esc_attr_e;esc_attr;_ex:1,2c;"
+"_x:1,2c\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: functions.php\n"
+"X-Poedit-SearchPath-2: inc/carousell.php\n"
+
+#. Are there comments to navigate through?
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:96
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: functions.php:98 functions.php:108
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: functions.php:106
+msgid "Footer"
+msgstr "Футер"
+
+#: functions.php:117
+msgid "Header (right)"
+msgstr "Хедер (справа)"
+
+#: functions.php:119
+msgid "Cart & User"
+msgstr "Корзина и аккаунт"
+
+#: functions.php:125
+msgid "Mobile menu"
+msgstr ""
+
+#: functions.php:127
+msgid "The mobile menu area"
+msgstr ""
+
+#: functions.php:234 woocommerce/myaccount/form-edit-account.php:42
+msgid "City"
+msgstr "Город"
+
+#: functions.php:235
+msgid "Company name"
+msgstr "Компания"
+
+#: functions.php:317
+msgid "Cart"
+msgstr "Корзина"
+
+#: functions.php:318
+msgid "Account"
+msgstr "Личный кабинет"
+
+#: functions.php:370
+msgid "Sale!"
+msgstr "Скидка!"
+
+#: functions.php:402
+msgid "Specifications"
+msgstr "Характеристики"
+
+#: inc/account.php:19
+msgid "My Details"
+msgstr "Личные данные"
+
+#: inc/account.php:20
+msgid "Orders"
+msgstr "История заказов"
+
+#. 'discounts' => __( 'Discounts', 'fstore' ),
+#: inc/account.php:22
+msgid "Support"
+msgstr "Служба поддержки"
+
+#: inc/account.php:23
+msgid "Logout"
+msgstr ""
+
+#: inc/account.php:94
+msgid "Please fill out all password fields."
+msgstr ""
+
+#: inc/account.php:97
+msgid "Please enter your current password."
+msgstr ""
+
+#: inc/account.php:100
+msgid "Please re-enter your password."
+msgstr ""
+
+#: inc/account.php:103
+msgid "New passwords do not match."
+msgstr ""
+
+#: inc/account.php:106
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: inc/account.php:122
+msgid "Password changed successfully."
+msgstr "Пароль успешно изменён."
+
+#: inc/callback.php:5
+msgid "Order call"
+msgstr "Заказать звонок"
+
+#: inc/callback.php:34
+msgid "Сallback request"
+msgstr "Заказ на обратный звонок"
+
+#: inc/carousell.php:15
+msgid "Featured"
+msgstr "Хит продаж"
+
+#: inc/carousell.php:17
+msgid "Sale"
+msgstr "Распродажа"
+
+#: inc/carousell.php:19
+msgid "Recent"
+msgstr "Новинки"
+
+#: inc/carousell.php:67
+msgid "Recently viewed"
+msgstr "Недавно просмотренные"
+
+#: inc/carousell.php:112
+msgid "Related"
+msgstr "Сопутствующие товары"
+
+#: inc/class-wc-test-email.php:16 inc/class-wc-test-email.php:19
+msgid "Order arrived to Vladivostok"
+msgstr "Заказ доставлен во Владивосток"
+
+#: inc/class-wc-test-email.php:17
+msgid "This email is sent when order has arrived to local store"
+msgstr "Это сообщение отправляется когда заказ доставлен в местное отделение"
+
+#: inc/class-wc-test-email.php:18
+msgid "Order arrived heading"
+msgstr ""
+
+#: inc/class-wc-test-email.php:142
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Fstore Theme"
+msgstr "Тема Fstore"
+
+#: inc/customizer.php:36
+msgid "Footer text"
+msgstr "Текст футера"
+
+#: inc/customizer.php:52
+msgid "Footer logo"
+msgstr "Лого в футере"
+
+#: inc/customizer.php:71
+msgid "Footer social"
+msgstr "Соцсети в футере"
+
+#: inc/discount.php:9
+msgid "Client discount"
+msgstr "Скидка клиента"
+
+#: inc/discount.php:12
+msgid "Client discount (%)"
+msgstr "Скидка (%)"
+
+#: inc/discount.php:57
+msgid "Your discount: "
+msgstr "Ваша скидка:"
+
+#: inc/location.php:16
+msgid "Product location"
+msgstr "Наличие товара"
+
+#: inc/location.php:18
+msgid "Not specified"
+msgstr "Не указано"
+
+#: inc/location.php:19
+msgid "Vladivostok"
+msgstr "Владивосток"
+
+#: inc/location.php:20
+msgid "Available in China"
+msgstr "В наличии в КНР"
+
+#: inc/location.php:21 inc/location.php:58 inc/location.php:61
+msgid "Order"
+msgstr "Под заказ"
+
+#: inc/location.php:55
+msgid "In stock!"
+msgstr "В наличии!"
+
+#: inc/location.php:56 inc/location.php:59
+msgid "Available at:"
+msgstr "На складе:"
+
+#: inc/location.php:66
+msgid "Not available!"
+msgstr "Нет в наличии!"
+
+#: inc/order-status.php:8 inc/order-status.php:21
+msgid "Arrived at Vladivostok"
+msgstr "Доставлено во Владивосток"
+
+#: inc/registration.php:10
+msgctxt "noun"
+msgid "Login"
+msgstr "Логин"
+
+#: inc/registration.php:15 woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-login.php:45
+msgid "Password"
+msgstr "Пароль"
+
+#: inc/registration.php:20
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/registration.php:26
+msgid "I agree to <a href=\"/terms\" target=\"_blank\">terms & conditions</a>"
+msgstr ""
+"Я согласен с условиями <a href=\"/terms\" target=\"_blank"
+"\">Пользовательского соглашения</a>"
+
+#: inc/registration.php:31
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: inc/registration.php:42
+msgid "Registration complete."
+msgstr "Вы успешно зарегистрированы!"
+
+#: inc/registration.php:43 inc/registration.php:51
+msgid "Go to your account."
+msgstr "Перейти в личный кабинет."
+
+#: inc/registration.php:44
+msgid "Go to your cart."
+msgstr "Перейти в корзину."
+
+#: inc/registration.php:50
+msgid "You are already registered"
+msgstr "Вы уже зарегистрированы"
+
+#: inc/registration.php:71
+msgid "Recaptcha is empty"
+msgstr "Подтвердите, что вы не робот"
+
+#: inc/registration.php:74
+msgid "Required form field is missing"
+msgstr "Обязательное поле незаполнено"
+
+#: inc/registration.php:78
+msgid "login too short. At least 4 characters is required"
+msgstr "Слишком короткий логин. Минимум 4 знака"
+
+#: inc/registration.php:81
+msgid "Sorry, that login already exists!"
+msgstr "Логин занят!"
+
+#: inc/registration.php:84
+msgid "Sorry, the login you entered is not valid"
+msgstr "Плохой логин"
+
+#: inc/registration.php:87
+msgid "Password length must be greater than 5"
+msgstr "Пароль должен иметь более 5 знаков"
+
+#: inc/registration.php:90
+msgid "Email is not valid"
+msgstr "Неверный e-mail"
+
+#: inc/registration.php:93
+msgid "Email Already in use"
+msgstr "E-mail занят"
+
+#: inc/registration.php:96
+msgid "You should accept terms to proceed"
+msgstr "Примите условия чтобы продолжить"
+
+#: inc/registration.php:101
+msgid "Error"
+msgstr "Ошибка"
+
+#: inc/slider.php:5
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc/slider.php:6 inc/slider.php:8 inc/slider.php:13
+msgid "Slide"
+msgstr "Слайд"
+
+#: inc/slider.php:7 inc/slider.php:14
+msgid "Slides"
+msgstr "Слайды"
+
+#: inc/slider.php:9
+msgid "Slide Archives"
+msgstr ""
+
+#: inc/slider.php:10
+msgid "Edit This Slide"
+msgstr "Редактировать слайд"
+
+#: inc/slider.php:45
+msgid "Meta"
+msgstr ""
+
+#: inc/slider.php:54
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/slider.php:55
+msgid "http://..."
+msgstr ""
+
+#: inc/support.php:35
+msgid "New support message"
+msgstr "Сообщение в службу поддержки"
+
+#: inc/support.php:38
+msgid "New message for CEO"
+msgstr "Новое сообщение Директору"
+
+#: inc/support.php:50
+msgid "Message sent"
+msgstr "Сообщение отправлено"
+
+#: inc/support.php:51
+msgid "Something went wrong. Try later"
+msgstr "Что-то пошло не так. Попробуйте позже, или позвоните нам"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search results: %s"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:38
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:48 woocommerce/cart/cart-totals.php:49
+msgid "Shipping"
+msgstr "Доставка"
+
+#: woocommerce/cart/cart-totals.php:64
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:89 woocommerce/cart/cart.php:37
+#: woocommerce/cart/cart.php:107 woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:107
+msgid "Total"
+msgstr "Итого"
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:66
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/emails/email-order-details.php:36
+msgid "Product"
+msgstr "Товар"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:84
+#: woocommerce/emails/email-order-details.php:37
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "Кол-во"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:101
+#: woocommerce/emails/email-order-details.php:38
+msgid "Price"
+msgstr "Цена"
+
+#: woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+msgid "Remove this item"
+msgstr "Убрать"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr "Купон:"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr "Обновить корзину"
+
+#. * @global WC_Checkout $checkout
+#: woocommerce/checkout/form-billing.php:45
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:23
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: woocommerce/checkout/form-checkout.php:31
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:70
+msgid "Confirm order"
+msgstr "Оформить заказ"
+
+#: woocommerce/checkout/form-login.php:27
+#, php-format
+msgid "Sign in or <a href=\"%s\">sign up</a> to proceed"
+msgstr "Чтобы оформить заказ войдите или <a href=\"%s\">зарегистрируйтесь</a>"
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr "Итого"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "Done!"
+msgstr "Готово!"
+
+#: woocommerce/checkout/thankyou.php:43
+#, php-format
+msgid "Order <span class=\"order-num\">#%d</span> confirmed."
+msgstr "Заказ <span class=\"order-num\">№%d</span> принят."
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Our manager will contact you shortly"
+msgstr "В ближайшее время с вами свяжется наш менеджер."
+
+#: woocommerce/checkout/thankyou.php:46
+#, php-format
+msgid "You can track your order status in <a href=\"%s\">your account</a>"
+msgstr ""
+"Состояние заказа можно отслеживать в <a href=\"%s\">личном кабинете</a>"
+
+#: woocommerce/content-single-product.php:78
+msgid "Description"
+msgstr "Описание"
+
+#: woocommerce/emails/customer-on-hold-order.php:18
+msgid ""
+"Your order is on-hold until we confirm payment has been received. Your order "
+"details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:34
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: woocommerce/emails/email-customer-details.php:28
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:28
+#: woocommerce/emails/email-order-details.php:30
+#, fuzzy, php-format
+#| msgid "Orders"
+msgid "Order #%s"
+msgstr "История заказов"
+
+#: woocommerce/emails/email-order-details.php:53
+msgid "Discount:"
+msgstr "Скидка:"
+
+#: woocommerce/emails/email-order-details.php:61
+msgctxt "email total"
+msgid "Total"
+msgstr "Всего"
+
+#: woocommerce/global/form-login.php:35 woocommerce/myaccount/form-login.php:41
+msgid "Username or email"
+msgstr "Логин"
+
+#: woocommerce/global/form-login.php:48 woocommerce/myaccount/form-login.php:32
+#: woocommerce/myaccount/form-login.php:53
+msgid "Login"
+msgstr "Войти"
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:55
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:62 woocommerce/myaccount/form-login.php:63
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:36
+#, php-format
+msgid "Unfortunately, nothing was found by \"%s\" search."
+msgstr "К сожалению, по запросу «%s» ничего не найдено."
+
+#: woocommerce/loop/no-products-found.php:37
+msgid "Unfortunately, nothing was found"
+msgstr "К сожалению, ничего не найдено"
+
+#: woocommerce/loop/no-products-found.php:43
+msgid "Maybe you'd like something else:"
+msgstr "Возможно вас заинтересует:"
+
+#: woocommerce/myaccount/form-edit-account.php:30
+#: woocommerce/myaccount/message-ceo.php:18
+#: woocommerce/myaccount/support.php:17
+msgid "First name"
+msgstr "Имя"
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr "Фамилия"
+
+#: woocommerce/myaccount/form-edit-account.php:38
+#: woocommerce/myaccount/message-ceo.php:24
+#: woocommerce/myaccount/support.php:23
+msgid "Phone number"
+msgstr "Контактный телефон"
+
+#: woocommerce/myaccount/form-edit-account.php:50
+#: woocommerce/myaccount/message-ceo.php:30
+#: woocommerce/myaccount/support.php:29
+msgid "Email address"
+msgstr "E-mail"
+
+#: woocommerce/myaccount/form-edit-account.php:54
+msgid "Save"
+msgstr "Сохранить"
+
+#: woocommerce/myaccount/form-edit-account.php:63
+msgid "New password"
+msgstr "Новый пароль"
+
+#: woocommerce/myaccount/form-edit-account.php:67
+msgid "Confirm new password"
+msgstr "Подтверждение пароля"
+
+#: woocommerce/myaccount/form-edit-account.php:71
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#: woocommerce/myaccount/form-edit-account.php:75
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: woocommerce/myaccount/form-login.php:34
+#, php-format
+msgid "Sign in or <a href=\"%s\">sign up</a>"
+msgstr "Войдите или <a href=\"%s\">зарегистрируйтесь</a>"
+
+#: woocommerce/myaccount/message-ceo.php:14
+msgid "Direct Message to CEO"
+msgstr "Написать директору"
+
+#: woocommerce/myaccount/message-ceo.php:39
+#: woocommerce/myaccount/support.php:38
+msgid "Describe your question or leave a testimonial"
+msgstr "Опишите свой вопрос или оставьте отзыв"
+
+#: woocommerce/myaccount/message-ceo.php:46
+#: woocommerce/myaccount/support.php:45
+msgid "Send"
+msgstr "Отправить сообщение"
+
+#: woocommerce/myaccount/orders.php:40
+msgctxt "hash before order number"
+msgid "#"
+msgstr "№"
+
+#: woocommerce/myaccount/orders.php:79
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:83
+msgid "Next"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:91
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:93
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:50
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr "Недоступно"
+
+#: woocommerce/single-product/photoswipe.php:51
+msgid "Close (Esc)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:53
+msgid "Share"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:55
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:57
+msgid "Zoom in/out"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:74
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:76
+msgid "Next (arrow right)"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:53
+msgid "Awaiting product image"
+msgstr ""
+
+#~ msgid "Transit"
+#~ msgstr "Транзит"
+
+#~ msgid "In transit"
+#~ msgstr "В пути"
+
+#~ msgid "Your discount:"
+#~ msgstr "Ваша скидка:"
+
+#~ msgid "Please, call me back: "
+#~ msgstr "Пожалуйста, перезвоните мне"
+
+#~ msgid "I agree to <a href=\"/terms\">terms & conditions</a>"
+#~ msgstr ""
+#~ "Я согласен с условиями <a href=\"/terms\">пользовательского соглашения</a>"
+
+#~ msgid "Specs"
+#~ msgstr "Характеристики"
+
+#~ msgid "Available"
+#~ msgstr "В наличии"
+
+#~ msgid "Discounts"
+#~ msgstr "Скидки"
+
+#~ msgid "Ekaterinburg"
+#~ msgstr "Екатеринбург"
+
+#~ msgid "Moscow"
+#~ msgstr "Москва"
+
+#~ msgid "China"
+#~ msgstr "КНР"
+
+#~ msgid "<a href=\"/my-account\">Go to your account.</a>"
+#~ msgstr "<a href=\"/my-account\">Go to your account.</a>"
+
+#~ msgid "<a href=\"/my-account.php\">Go to your account.</a>"
+#~ msgstr "<a href=\"/my-account.php\">Перейти в личный кабинет.</a>"
+
+#~ msgid "<a href=\"%s\"/my-account.php\">Go to your account.</a>"
+#~ msgstr "<a href=\"%s\"/my-account.php\">Go to your account.</a>"
+
+#~ msgid ""
+#~ "Registration complete.<a class=\"\" href=\"%s\"/my-account.php\">Go to "
+#~ "your account</a>."
+#~ msgstr ""
+#~ "Вы успешно зарегистрированы!<a class=\"\" href=\"%s\"/my-account.php"
+#~ "\">Перейти в личный кабинет</a>."
+
+#~ msgid "I agree to <a href=\"%S\">terms & conditions</a>"
+#~ msgstr ""
+#~ "Я согласен с условиями <a href=\"%S\">пользовательского соглашения</a>"
+
+#~ msgid "Similar"
+#~ msgstr "Сопутствующие товары"
+
+#~ msgid "Shop"
+#~ msgstr "Каталог"
