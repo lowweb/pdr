@@ -2734,7 +2734,7 @@ a.button.wc-forward {
     -webkit-box-flex: 1;
     -ms-flex: 1 0 460px;
     flex: 1 0 396px;
-    padding: 0px 0 44px;
+    padding: 0px 0 24px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     display: -webkit-box;
@@ -4519,12 +4519,19 @@ div#items-count {
 }
 
 .owl-carousel li.product .prod-card-footer .button {
-    position: absolute;
-    left: 0;
-    right: 0;
-    width: 96px;
-    width: fit-content;
-    bottom: -22px;
+    display: inline-block; 
+    margin: 22px auto -44px;
+    height: 40px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    line-height: 1.8;
+    background: #ce2129;
+    border-radius: 100px;
+    will-change: transform;
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
 }
 
 .owl-carousel li.product h2 {
@@ -5025,3 +5032,5 @@ form.woocommerce-ordering > label {
     top: -10px;
     margin: 0 auto;
 }
+
+#tab-description>ul>li>b {text-align: right;}
