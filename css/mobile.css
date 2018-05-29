@@ -692,8 +692,9 @@ a.contact-ceo {
 }
 
 #footer a.callback-btn {
-    position: absolute;
+   /* position: absolute;
     top: 30px;
+    */
 }
 
 div#footer-center section.widget_text, div#footer-center section.classic-textwidget {
