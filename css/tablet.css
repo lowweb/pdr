@@ -508,6 +508,7 @@ dl.variation, dl.variation p {font-size: 12px;line-height: 1.2;}
     height: 28px;
     padding: 4px 0;
     line-height: 1.6;
+    margin-bottom: 16px;
 }
 
 #footer a.callback-btn svg {
