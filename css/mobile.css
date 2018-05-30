@@ -197,6 +197,8 @@ div#header-main {
 
 h3.carousel-tabs {
     margin: 0 0 40px;
+    width: 100%; 
+    text-align: center
 }
 
 form#search-sc {
